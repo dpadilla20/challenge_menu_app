@@ -1,0 +1,19 @@
+@layer base {
+  @font-face {
+    font-family: 'Cera';
+    font-weight: 400;
+    src: url('/fonts/Cera/Cera-Regular.woff2') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Cera';
+    font-weight: 700;
+    src: url('/fonts/Cera/Cera-Bold.woff2') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Souvenir';
+    font-weight: 700;
+    src: url('/fonts/Souvenir/Souvenir-Demi.woff2') format('woff2');
+  }
+}
